@@ -1,0 +1,4 @@
+platform:ios,'8.0'
+target "App调起微信小程序" do
+pod 'WechatOpenSDK'
+end
